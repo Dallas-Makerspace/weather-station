@@ -1,2 +1,2 @@
-# weather-station
+# Weather-Station
 COMING SOON!
