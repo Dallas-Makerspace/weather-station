@@ -8,5 +8,4 @@ Additional Documentation can be seen at:<br/>
 <a href="https://dallasmakerspace.org/wiki/Weather_Station">Weather Station Wiki</a>
 
 # WeeWx
-Weewx is the open source software that we are currently using to post our data to various websites such as:<br/>
-Wunderground.com: <a href="https://www.wunderground.com/personal-weather-station/dashboard?ID=KTXCARRO72">Dallas Makerspace KTXCARRO72</a>
+Weewx is the open source software that we are currently using to post our data to various websites such as, Wunderground.com: <a href="https://www.wunderground.com/personal-weather-station/dashboard?ID=KTXCARRO72">Dallas Makerspace KTXCARRO72</a>. To find out more about Weewx visit their site for detailed documentation at <a href="http://weewx.com/">Weewx.com</a> and their <a href="https://github.com/weewx/weewx">github</a>.
