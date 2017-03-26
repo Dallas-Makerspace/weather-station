@@ -6,4 +6,5 @@ We will give you SSH access to the pi which allow you to configure the code.
 
 Additional Documentation can be seen at:
 <a href="https://talk.dallasmakerspace.org/t/dms-weather-project-build-log/16179">DMS Weather Project: Build Log</a>
+
 <a href="https://dallasmakerspace.org/wiki/Weather_Station">Weather Station Wiki</a>
